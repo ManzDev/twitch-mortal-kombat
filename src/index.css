@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Mortal Kombat 3";
+  src:
+    url("fonts/mk3.woff2") format("woff2"),
+    url("fonts/mk3.ttf") format("truetype");
+}
+
+body {
+  background: #222;
+}
